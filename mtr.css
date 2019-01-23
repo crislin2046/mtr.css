@@ -19,7 +19,7 @@
   --chai-wan: #076750;
   --fanling: #7abf45;
   --lok-ma-chau: #75c7b9;
-  --choi-hung: #077cb0;
+  --choi-hung: linear-gradient(to bottom, #077cb0 16%, #d14024 16% 32%, #f3eb2c 32% 48%, #448624 48% 64%, #607bbb, 64% 80%, #077cb0 80% 100%);
   --shau-kei-wan: #29409a;
   --tsuen-wan-west: #ee1e4f;
   --lai-king: #d2174a;
